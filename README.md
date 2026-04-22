@@ -80,4 +80,4 @@ channel performance, and opportunities to improve lead-to-customer conversion.
 
 ## Internship Timeline
 - Start Date: 21/04/2026
-- Submission Deadline: 21/05/2026
+- Submission Deadline: 26/05/2026
